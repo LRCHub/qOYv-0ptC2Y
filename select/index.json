@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Tetris",
+  "base_artist": "WITHDOM",
+  "createdAt": "2026-04-03T01:14:34.502453Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dead Man's Tetris (Instrumental)",
+      "artist": "Flying Lotus",
+      "has_synced": false,
+      "path": "select/01_Dead_Man's_Tetris_(Instrumental)_Flying_Lotus.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dead Man's Tetris",
+      "artist": "Flying Lotus feat. Captain Murphy & Snoop Dogg",
+      "has_synced": true,
+      "path": "select/02_Dead_Man's_Tetris_Flying_Lotus_feat._Captain_Murphy_&_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dead Man's Tetris (feat. Captain Murphy & Snoop Dogg)",
+      "artist": "Flying Lotus",
+      "has_synced": true,
+      "path": "select/03_Dead_Man's_Tetris_(feat._Captain_Murphy_&_Snoop_Dogg)_Flying_Lotus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tetris",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/04_Tetris_Logic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holding Out For A Hero (Japanese) - Tetris Motion Picture Soundtrack",
+      "artist": "Ren",
+      "has_synced": true,
+      "path": "select/05_Holding_Out_For_A_Hero_(Japanese)_-_Tetris_Motion_Picture_Soundtrack_Ren.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tetris",
+      "artist": "Doctor Spin",
+      "has_synced": false,
+      "path": "select/06_Tetris_Doctor_Spin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tetris",
+      "artist": "Dr. Spin",
+      "has_synced": false,
+      "path": "select/07_Tetris_Dr._Spin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tetris",
+      "artist": "Hella Sketchy",
+      "has_synced": false,
+      "path": "select/08_Tetris_Hella_Sketchy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tetris (feat. Swana & Vuk Oreb)",
+      "artist": "KUKU$",
+      "has_synced": false,
+      "path": "select/09_Tetris_(feat._Swana_&_Vuk_Oreb)_KUKU$.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tetris (feat. Hladni x Oreb)",
+      "artist": "KUKU$",
+      "has_synced": false,
+      "path": "select/10_Tetris_(feat._Hladni_x_Oreb)_KUKU$.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Holding Out For A Hero (Japanese) (Tetris Motion Picture Soundtrack)",
+      "artist": "ReN",
+      "has_synced": true,
+      "path": "select/11_Holding_Out_For_A_Hero_(Japanese)_(Tetris_Motion_Picture_Soundtrack)_ReN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tetris (7\" Mix)",
+      "artist": "Doctor Spin",
+      "has_synced": false,
+      "path": "select/12_Tetris_(7__Mix)_Doctor_Spin.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "01 Tetris (7\" Mix)",
+      "artist": "Doctor Spin",
+      "has_synced": false,
+      "path": "select/13_01_Tetris_(7__Mix)_Doctor_Spin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tetris (12\" Mix)",
+      "artist": "Doctor Spin",
+      "has_synced": false,
+      "path": "select/14_Tetris_(12__Mix)_Doctor_Spin.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "02 Tetris (12\" Mix)",
+      "artist": "Doctor Spin",
+      "has_synced": false,
+      "path": "select/15_02_Tetris_(12__Mix)_Doctor_Spin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tetris",
+      "artist": "WITHDOM",
+      "has_synced": false,
+      "path": "select/pl_01_Tetris_WITHDOM.txt"
+    }
+  ]
+}
